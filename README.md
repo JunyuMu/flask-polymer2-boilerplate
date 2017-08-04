@@ -7,6 +7,10 @@ $ git clone https://github.com/JunyuMu/flask-polymer2-boilerplate.git
 $ cd flask-polymer2-boilerplate/
 $ pip install flask
 $ npm install -g polymer-cli
+$ npm install -g bower
+$ cd static/
+$ bower install
+$ cd ..
 ```
 
 run in development env
